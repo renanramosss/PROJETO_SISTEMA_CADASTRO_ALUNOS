@@ -12,3 +12,9 @@ Gustavo Henrique Macedo de lira filho - 01874798
 Matheus Gabriel de Andrade Silva - 01874228
 
 Mikael Mayron Da Silva - 01874348
+
+Para executar:
+
+1. Baixe os arquivos main.py e utilidades.py (precisam ficar na mesma pasta)
+2. Abra o terminal nessa pasta
+3. Execute: python main.py
